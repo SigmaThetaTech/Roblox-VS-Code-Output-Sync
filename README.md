@@ -10,7 +10,7 @@ This extension optionally converts Roblox paths to file paths so that you can cl
 
 ## Requirements
 
-You must install [this plugin](https://www.roblox.com/catalog/04158442719/redirect) ([Github](https://github.com/Corecii/Roblox-VS-Code-Output-Sync/releases)) in Roblox Studio to use this extension. Once installed, click the "Toggle" button at the beginning of each session to start logging the output to VS Code.
+You must install [this plugin](https://create.roblox.com/store/asset/4158442719/VS-Code-Output-Sync) ([Github](https://github.com/Corecii/Roblox-VS-Code-Output-Sync/releases)) in Roblox Studio to use this extension. Once installed, click the "Toggle" button at the beginning of each session to start logging the output to VS Code.
 
 ## How-to
 
